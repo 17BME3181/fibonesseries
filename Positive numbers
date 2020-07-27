@@ -1,0 +1,14 @@
+#  positive  number   only 
+list1=[12,-7, 5,64,-1]
+list2=[12,14,-95,3]
+i=0
+n=len(list1) 
+for  i  in  range  (n) :
+    if (list1[i]>=0) :
+        print(list1[i])
+i=0
+y=len(list2) 
+for i  in range  (y) :
+    if (list2[i]>=0):
+        print(list2[i]) 
+#r.shankar prabhu 
